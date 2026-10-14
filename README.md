@@ -48,7 +48,7 @@ Inspirada diretamente no ecossistema digital da Porsche Brasil:
 
 ## 🌐 Acesso ao Projeto
 Você pode acessar a versão interativa hospedada online:
-- [Acesse a Dashboard no GitHub Pages](SEU_LINK_AQUI)
+- [Acesse a Dashboard no GitHub Pages] (https://ismaeldalpiva.github.io/Criando_Dashboard_Porsche/)
 
 ---
 *Projeto desenvolvido como parte de um desafio prático de portfólio de engenharia de dados e IA.*
